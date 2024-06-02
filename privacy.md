@@ -1,7 +1,7 @@
 
 # Privacy Policy for CoBudget Pro
 
-**Effective Date: [Insert Date]**
+**Effective Date: June 2nd, 2024
 
 ## Introduction
 
@@ -33,7 +33,7 @@ We may update our privacy policy from time to time. Any changes will be posted o
 
 ## Contact Us
 
-If you have any questions or concerns about this privacy policy or CoBudget Pro, please contact us at [Your Contact Information].
+If you have any questions or concerns about this privacy policy or CoBudget Pro, please contact us at support@cobudgetpro.com.
 
 ---
 
