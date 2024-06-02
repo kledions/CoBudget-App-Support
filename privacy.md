@@ -1,6 +1,3 @@
----
-title: Privacy Policy for CoBudget Pro
----
 
 # Privacy Policy for CoBudget Pro
 
